@@ -19,13 +19,15 @@ Go to the Github Page for this lab, you should see a playground site that greets
 - The right side is an `iframe` with the result
   - Note that for breakpoints (e.g. 480px), these will occur on the width of the `iframe` and not the width of the whole page!
 
-Notes:
+### Notes:
+
 - All of this functionality should work together, so f.ex completing the 2nd bullet point should not cause the 1st one to break!
 - For now, don't worry about accessibility - e.g. when you open the page you can see we've abused `h1` tags just to get the text the right size 🙈
 - For this part, you'll be focusing on the first `section` and its content
 - The documentation on [breakpoints](https://warp-ds.github.io/css-docs/class-variants#breakpoints-and-media-queries) is relevant for commpleting these tasks
 
-Tasks:
+### Tasks:
+
 1. Make it so that on **mobile** screens "Hello Warp" is stacked on top as shown [here](/.github/assets/task-1-1.png?raw=true)
 2. Make changes so that on **tablet** screens the word "there" appears between "Hello" and "Warp" as shown [here](/.github/assets/task-1-2.png?raw=true)
 3. 'Improve' the **desktop** version so "Hello" and "Warp" appear above and below each other as shown [here](/.github/assets/task-1-3.png?raw=true)
@@ -35,11 +37,11 @@ Tasks:
 
 You'll work from the same Github Page for this lab. If you nuked the button section, or would like to start fresh you can use [this link](https://learn-warp-ds.github.io/lab-1?html=DwCwTABAxgNghgZwQXgEQFsAuBaAzGVAPgE0B7AVwCcIAjczTUgOwhAFNK2JBeDcHEd4APThCAKGAI2UTAEtm0eEjQAHPJBqlKAEw5ERECMDoNmhAMIxpUANYR0bQUcZNRgiVNnOgA)
 
-Notes:
+### Notes:
 - You can refer to available colors [here](https://tailwindcss.com/docs/customizing-colors). As mentioned above, these aren't available in Warp, but are more fun to use when learning!
   - Setting background (e.g. `bg-blue-500`), text (e.g. `text-blue-500`), and border (e.g. `border-blue-500`) should all work using these colors.
 
-Tasks:
+### Tasks:
 1. Make the button look like a button from your favorite brand!
 2. Give your button `hover`, `focus`, and `active` effects.
     - Pseudo-classes work similiarly to breakpoints in the previous lab - `hover:bg-blue-500` will assign that background-color when the element is hovered.
