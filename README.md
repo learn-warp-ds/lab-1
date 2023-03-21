@@ -45,4 +45,4 @@ You'll work from the same Github Page for this lab. If you nuked the button sect
 1. Make the button look like a button from your favorite brand!
 2. Give your button `hover`, `focus`, and `active` effects.
     - Pseudo-classes work similiarly to breakpoints in the previous lab - `hover:bg-blue-500` will assign that background-color when the element is hovered.
-    - Pseudo-classes can be combined with breakpoints! `hover:lg:bg-blue-500` will assign that background-color only on desktop sized screens and the element is hovered.
+    - Pseudo-classes can be combined with breakpoints! `hover:lg:bg-blue-500` will assign that background-color only on desktop sized screens and when the element is hovered.
