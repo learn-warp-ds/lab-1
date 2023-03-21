@@ -22,9 +22,9 @@ Go to the Github Page for this lab, you should see a playground site that greets
 ### Notes:
 
 - All of this functionality should work together, so f.ex completing the 2nd bullet point should not cause the 1st one to break!
-- For now, don't worry about accessibility - e.g. when you open the page you can see we've abused `h1` tags just to get the text the right size 🙈
+- For now, don't worry about accessibility - e.g. when you open the page you can see we've abused `h1` tags just to get the right size text 🙈
 - For this part, you'll be focusing on the first `section` and its content
-- The documentation on [breakpoints](https://warp-ds.github.io/css-docs/class-variants#breakpoints-and-media-queries) is relevant for commpleting these tasks
+- The documentation on [breakpoints](https://warp-ds.github.io/css-docs/class-variants#breakpoints-and-media-queries) is relevant for completing these tasks
 
 ### Tasks:
 
